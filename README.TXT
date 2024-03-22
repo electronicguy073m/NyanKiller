@@ -4,6 +4,8 @@ Compatability: windows XP - 11
 DISCLAMER: Run at your own risk - this virus is completely harmless.
 info:
 
++Added spinoff versions for super idol, caseOH burger king AI and Red Sun In The Sky
+
 This program runs a bat file (script) to do a bunch of useless things. 
 
 1st set:
